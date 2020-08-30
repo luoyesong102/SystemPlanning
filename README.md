@@ -15,7 +15,7 @@
 - [x] 系统架构及演变：单体，分布式，微服务，devops；
 - [x] 项目管理及设计：时间计划，研发环境，设计建模；
 
-## （Esmart.Crm.Manager）开箱即用企业级业务系统【 Razor+Mvc+DDD+Ef+WebApi+H5】框架,配合权限框架进行相互集成
+## （Base.Common.Manager）开箱即用企业级业务系统【 Razor+Mvc+DDD+Ef+WebApi+H5】框架,配套用户基础权限管理后台进行使用
 
 
 ### 前端功能与进度
@@ -50,7 +50,7 @@
 
 
 
-## （Blog.Core&Vue Project）开箱即用的企业级前后端分离【 .NET Core3.1 Api + Vue 2.x + RBAC】权限框架，用来做基础权限后台和接口管理后台。 
+## （Blog.Core&Vue Project）开箱即用的企业级前后端分离【 .NET Core3.1 Api + Vue 2.x + RBAC】权限框架，用来管理接口权限。 
 
 ### 前端功能与进度
 - [x] 接口权限后台；
