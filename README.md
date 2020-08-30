@@ -1,5 +1,5 @@
 # 系统规划
-
+- [x] 基础业务管理平台：Razor+Vue+H5+小程序+APP；
 - [x] 基础业务管理平台：Razor&vue&bootstrap&layui+mvc+ddd+ef；
 - [x] 接口管理平台：业务接口&微信接口的服务化管理(跨平台&微服务化)；
 - [x] gitlab&azuredevopsserver+接口文档平台+禅道+企业微信(知识库，在线课堂)；
